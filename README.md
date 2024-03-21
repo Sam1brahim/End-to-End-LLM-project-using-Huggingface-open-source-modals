@@ -23,9 +23,8 @@ Prerequisites
 Installation:
 Clone the repository to your local machine:
 
-bash
-
-git clone https://github.com/yourusername/technology-implementation-assistant.git
+   bash
+   git clone https://github.com/yourusername/technology-implementation-assistant.git
 
     Navigate to the project directory:
 
