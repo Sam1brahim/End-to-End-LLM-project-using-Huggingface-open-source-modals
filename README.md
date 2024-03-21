@@ -10,8 +10,9 @@ Features:
     * Streamlit Interface: Offers an easy-to-use web interface for inputting your technology and operating system preferences and viewing the generated implementation guide.
     * GPU/CPU Support: Automatically detects and utilizes GPU for faster processing, with a fallback to CPU if necessary.
 
-Getting Started
-Prerequisites
+* Getting Started
+
+Prerequisites:
 
     Python 3.8+
     PyTorch
@@ -48,10 +49,10 @@ Use the interface to enter the technology you're interested in and select an ope
 # Remark : 
 * It can take a huge computational power ( more than langchain community ollama ). So be advised. 
 
-Contributing
+Contributing:
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-License
+License:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
