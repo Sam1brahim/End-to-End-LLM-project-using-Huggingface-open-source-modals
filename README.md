@@ -26,35 +26,28 @@ Clone the repository to your local machine:
    bash
    git clone https://github.com/yourusername/technology-implementation-assistant.git
 
-    Navigate to the project directory:
+Navigate to the project directory.
+Install the required dependencies:
 
-bash
+   pip install -r requirements.txt
 
-cd technology-implementation-assistant
+Running the Application:
 
-    Install the required dependencies:
+* Ensure you have the Hugging Face model downloaded to a local directory, e.g., D:\hugface\stablellm.
 
-bash
+* Start the Streamlit application:
 
-pip install -r requirements.txt
+   bash
+   streamlit run app.py
 
-Running the Application
+Open your web browser and navigate to the URL provided by Streamlit, usually http://localhost:8501.
 
-    Ensure you have the Hugging Face model downloaded to a local directory, e.g., D:\hugface\stablellm.
-
-    Start the Streamlit application:
-
-bash
-
-streamlit run app.py
-
-    Open your web browser and navigate to the URL provided by Streamlit, usually http://localhost:8501.
-
-    Use the interface to enter the technology you're interested in and select an operating system. Click "Generate" to receive your guide.
+Use the interface to enter the technology you're interested in and select an operating system. Click "Generate" to receive your guide.
 
 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
+
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
