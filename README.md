@@ -44,6 +44,9 @@ Open your web browser and navigate to the URL provided by Streamlit, usually htt
 
 Use the interface to enter the technology you're interested in and select an operating system. Click "Generate" to receive your guide.
 
+
+# Remark : 
+* It can take a huge computational power ( more than langchain community ollama ). So be advised. 
 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
