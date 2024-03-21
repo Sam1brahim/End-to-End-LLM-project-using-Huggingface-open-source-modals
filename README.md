@@ -2,8 +2,8 @@
 
 Technology Implementation Assistant
 
-This project harnesses the power of a pretrained Large Language Model (LLM) from Hugging Face, combined with the interactivity of Streamlit, to provide detailed, beginner-friendly guides on implementing various technologies across different operating systems. It's designed for absolute beginners looking for step-by-step instructions tailored to their technology and operating system choice.
-Features
+This project harnesses the power of a pretrained Large Language Model (LLM) from Hugging Face, combined with the interactivity of Streamlit, to provide detailed, beginner-friendly guides on implementing various technologies across different operating systems. It's designed for absolute beginners looking for step-by-step instructions tailored to their technology and operating system choice. Also a great view for developer to learn how to harness the powers of LLM locally.
+Features: 
 
     * Pretrained Language Model: Utilizes a local copy of a Hugging Face model for generating responses.
     * Custom Prompts: Dynamically generates prompts based on user input to provide specific, detailed guides.
@@ -20,9 +20,8 @@ Prerequisites
     An available GPU is recommended but not required.
     A downloaded LLM from Huggingface ( it can be sharded or one bin file )
 
-Installation
-
-    Clone the repository to your local machine:
+Installation:
+Clone the repository to your local machine:
 
 bash
 
