@@ -8,7 +8,7 @@ Features
     * Pretrained Language Model: Utilizes a local copy of a Hugging Face model for generating responses.
     * Custom Prompts: Dynamically generates prompts based on user input to provide specific, detailed guides.
     * Streamlit Interface: Offers an easy-to-use web interface for inputting your technology and operating system preferences and viewing the generated implementation guide.
-     *GPU/CPU Support: Automatically detects and utilizes GPU for faster processing, with a fallback to CPU if necessary.
+    * GPU/CPU Support: Automatically detects and utilizes GPU for faster processing, with a fallback to CPU if necessary.
 
 Getting Started
 Prerequisites
