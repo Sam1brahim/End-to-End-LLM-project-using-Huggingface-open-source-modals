@@ -47,6 +47,7 @@ Use the interface to enter the technology you're interested in and select an ope
 
 # Remark : 
 * It can take a huge computational power ( more than langchain community ollama ). So be advised. 
+
 Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
